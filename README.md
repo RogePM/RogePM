@@ -21,17 +21,9 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
 - 🧑‍💻 I love **coding** and **problem-solving**. I’ve been programming since I was 16—mainly to try to **shortcut my homework** (before AI was a thing!).
   
 ---
+## 🧑‍💻 My Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical)
 ---
-
-# 🧑‍💻 Stats and Languages:
-
-<div style="display: flex; gap: 20px;">
-  <!-- Top Languages as Circle -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical&langs_count=6&card_width=400" alt="Top Languages" width="45%" />
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RogePM&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats" width="45%" />
-</div>
 
 ## 🏆 GitHub Trophies:
 ![Your Trophies](https://github-profile-trophy.vercel.app/?username=RogePM&theme=gruvbox)
@@ -43,15 +35,6 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
 - I’ve been playing **video games** since I was in **Kindergarten**, and I still love **Minecraft**, **Pokémon**, and **League of Legends**.
 - I created a **TikTok channel** where I talk about **tech** and share what I’ve learned with others.
 - Fun story: I got into **coding** when I was 14, trying to write a program to **shortcut my math homework**—before AI was even a thing! 😄
-
----
-
-## 📬 Let’s Connect!
-
-Feel free to reach out to me for collaboration, questions, or just to chat about tech!
-
-- **[LinkedIn](https://www.linkedin.com/in/rogelioperezmontero/)**
-- **[My Portfolio](https://rogepm.github.io/RogelioPM/)**
 
 ---
 
