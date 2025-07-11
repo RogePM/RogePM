@@ -10,11 +10,6 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
   
 ---
 ## 🧑‍💻 My Most Used Languages & Streaks:
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="500" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RogePM&theme=radical&hide_border=true" alt="Streak Stats" width="500" />
-</div>
----
+| Top Languages | Streak Stats |
+|---------------|--------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical&langs_count=6) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RogePM&theme=radical&hide_border=true) |
