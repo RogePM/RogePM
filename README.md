@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rogelio (Ro-Hell-Lio)! 🚀
+# 👋 Hello, I'm Rogelio (Ro-Hell-Lio)! 
 
 Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s degrees**—one in **Computing Technology and Information Systems** and another in **Cyber & Network Security**. I specialize in **Full-Stack Web Development** and **Cybersecurity**. I’m passionate about **solving real-world problems** with technology.
 
