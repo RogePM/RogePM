@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hello, I'm Rogelio (Ro-Hell-Lio)! 🚀
 
-<!--
-**RogePM/RogePM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s degrees**—one in **Computing Technology and Information Systems** and another in **Cyber & Network Security**. I specialize in **Full-Stack Web Development** and **Cybersecurity**. I’m passionate about **solving real-world problems** with technology.
 
-Here are some ideas to get you started:
+📚 **Education**:
+- **Guilford College**, Greensboro, NC
+  - **Degree 1**: Bachelor of Science in **Computing Technology and Information Systems**
+  - **Degree 2**: Bachelor of Science in **Cyber & Network Security**
+  - **GPA**: 3.75/4.0
+  - **Honors**: High Honors, Dean's List, Honors Program Graduate
+  - **Relevant Coursework**: Advanced Computer Programming, Database Systems, Computer Networking, System Analysis and Design, Discrete Mathematics, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on various full-stack web projects, including **React** and **Node.js**.
+- 🌱 I’m always learning and experimenting with **Python**, **Cloud Technologies**, and **Cybersecurity**.
+- 💬 Ask me about **React**, **Node.js**, **Cybersecurity**, or **AI**.
+- 👯 I enjoy collaborating on projects that can make an impact in the **tech world**.
+- 🧑‍💻 I love **coding** and **problem-solving**. I’ve been programming since I was 16—mainly to try to **shortcut my homework** (before AI was a thing!).
+  
+---
+
+## 🧑‍💻 My Most Used Languages
+
+Here's a quick look at my most used languages across my repositories:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical)
+
+---
+
+## 📊 GitHub Stats
+
+Take a look at my GitHub contributions and activity over time:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogePM&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+I’ve earned a few **GitHub trophies**! 🏆
+
+![Your Trophies](https://github-profile-trophy.vercel.app/?username=RogePM&theme=gruvbox)
+
+---
+
+## 🛠️ Skills & Tools
+
+Here’s a rundown of the tools and technologies I use:
+
+### Programming & Scripting:
+- **Languages**: C, Java, Python, JavaScript, Assembly, SQL
+- **Web Development**: HTML, CSS, React.js, Node.js
+
+### Full-Stack & Cloud:
+- **MERN Stack**: MongoDB, Express.js, React, Node.js
+- **Cloud**: AWS, Azure, Kubernetes, Proxmox
+
+### Security & Systems:
+- **Security**: Kali Linux, Metasploit, Wireshark, Active Directory
+- **System Admin**: Git, Linux, MySQL, MongoDB
+
+---
+
+## 🌟 Fun Facts
+
+- I’ve been playing **video games** since I was in **Kindergarten**, and I still love **Minecraft**, **Pokémon**, and **League of Legends**.
+- I created a **TikTok channel** where I talk about **tech** and share what I’ve learned with others.
+- Fun story: I got into **coding** when I was 14, trying to write a program to **shortcut my math homework**—before AI was even a thing! 😄
+
+---
+
+## 📬 Let’s Connect!
+
+Feel free to reach out to me for collaboration, questions, or just to chat about tech!
+
+- **[LinkedIn](https://www.linkedin.com/in/rogelioperezmontero/)**
+- **[My Portfolio](https://rogepm.github.io/RogelioPM/)**
+
+---
+
+## 🧑‍💻 Currently Learning
+
+- Exploring **Machine Learning** and **AI**.
+- Enhancing my **Cybersecurity** knowledge wtih CCNA certification.
+- Diving deeper into **React** and **Node.js** to deploy my Real Time food Inventory Application as a product.
+
+---
