@@ -13,8 +13,10 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
 ## 🧑‍💻 GitHub Stats:
 <div style="display: flex; gap: 20px;">
   <!-- GitHub Stats -->
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical)
+## 🧑‍💻 My Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical)
 
+---
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RogePM&theme=radical&hide_border=true" alt="Streak Stats" width="45%" />
 </div>
