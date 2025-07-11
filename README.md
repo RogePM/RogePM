@@ -12,10 +12,3 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
 ## 🧑‍💻 My Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical)
 ---
-## 🌟 Fun Facts
-
-- I’ve been playing **video games** since I was in **Kindergarten**, and I still love **Minecraft**, **Pokémon**, and **League of Legends**.
-- I created a **TikTok channel** where I talk about **tech** and share what I’ve learned with others.
-- Fun story: I got into **coding** when I was 14, trying to write a program to **shortcut my math homework**—before AI was even a thing! 😄
-
----
