@@ -11,14 +11,11 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
   - **Relevant Coursework**: Advanced Computer Programming, Database Systems, Computer Networking, System Analysis and Design, Discrete Mathematics, etc.
 
 ---
+## 🧑‍💻 Currently Learning
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on various full-stack web projects, including **React** and **Node.js**.
-- 🌱 I’m always learning and experimenting with **Python**, **Cloud Technologies**, and **Cybersecurity**.
-- 💬 Ask me about **React**, **Node.js**, **Cybersecurity**, or **AI**.
-- 👯 I enjoy collaborating on projects that can make an impact in the **tech world**.
-- 🧑‍💻 I love **coding** and **problem-solving**. I’ve been programming since I was 16—mainly to try to **shortcut my homework** (before AI was a thing!).
+- Exploring **Machine Learning** and **AI**.
+- Enhancing my **Cybersecurity** knowledge wtih CCNA certification.
+- Diving deeper into **React** and **Node.js** to deploy my Real Time food Inventory Application as a product.
   
 ---
 ## 🧑‍💻 My Most Used Languages:
@@ -27,21 +24,12 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
 
 ## 🏆 GitHub Trophies:
 ![Your Trophies](https://github-profile-trophy.vercel.app/?username=RogePM&theme=gruvbox)
-
-
+---
 
 ## 🌟 Fun Facts
 
 - I’ve been playing **video games** since I was in **Kindergarten**, and I still love **Minecraft**, **Pokémon**, and **League of Legends**.
 - I created a **TikTok channel** where I talk about **tech** and share what I’ve learned with others.
 - Fun story: I got into **coding** when I was 14, trying to write a program to **shortcut my math homework**—before AI was even a thing! 😄
-
----
-
-## 🧑‍💻 Currently Learning
-
-- Exploring **Machine Learning** and **AI**.
-- Enhancing my **Cybersecurity** knowledge wtih CCNA certification.
-- Diving deeper into **React** and **Node.js** to deploy my Real Time food Inventory Application as a product.
 
 ---
