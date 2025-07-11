@@ -9,14 +9,12 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
 - Diving deeper into **React** and **Node.js** to deploy my ***Real Time food Inventory Application*** as a product.
   
 ---
-
-## 🧑‍💻 GitHub Stats:
-<div style="display: flex; gap: 20px;">
-  <!-- GitHub Stats -->
-## 🧑‍💻 My Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical)
-
----
+## 🧑‍💻 My Most Used Languages & Streaks:
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%" />
+  
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RogePM&theme=radical&hide_border=true" alt="Streak Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RogePM&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
 </div>
+---
