@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
 
 ##  📚  Currently Learning
 
-- Exploring **Machine Learning** and **AI**.
+- Exploring **Machine Learning** and automating **AI** solutions.
 - Enhancing my **Cybersecurity** knowledge wtih CCNA certification.
 - Diving deeper into **React** and **Node.js** to deploy my ***Real Time food Inventory Application*** as a product.
   
