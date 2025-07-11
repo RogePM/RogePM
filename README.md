@@ -2,15 +2,6 @@
 
 Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s degrees**—one in **Computing Technology and Information Systems** and another in **Cyber & Network Security**. I specialize in **Full-Stack Web Development** and **Cybersecurity**. I’m passionate about **solving real-world problems** with technology.
 
-📚 **Education**:
-- **Guilford College**, Greensboro, NC
-  - **Degree 1**: Bachelor of Science in **Computing Technology and Information Systems**
-  - **Degree 2**: Bachelor of Science in **Cyber & Network Security**
-  - **GPA**: 3.75/4.0
-  - **Honors**: High Honors, Dean's List, Honors Program Graduate
-  - **Relevant Coursework**: Advanced Computer Programming, Database Systems, Computer Networking, System Analysis and Design, Discrete Mathematics, etc.
-
----
 ## 🧑‍💻 Currently Learning
 
 - Exploring **Machine Learning** and **AI**.
