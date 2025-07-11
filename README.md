@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
 
 - Exploring **Machine Learning** and **AI**.
 - Enhancing my **Cybersecurity** knowledge wtih CCNA certification.
-- Diving deeper into **React** and **Node.js** to deploy my Real Time food Inventory Application as a product.
+- Diving deeper into **React** and **Node.js** to deploy my ***Real Time food Inventory Application*** as a product.
   
 ---
 ## 🧑‍💻 My Most Used Languages:
