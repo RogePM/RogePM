@@ -21,21 +21,19 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
 - 🧑‍💻 I love **coding** and **problem-solving**. I’ve been programming since I was 16—mainly to try to **shortcut my homework** (before AI was a thing!).
   
 ---
+---
 
-## 🧑‍💻 My Most Used Languages
-
-Here's a quick look at my most used languages across my repositories:
-
+## 🧑‍💻 My Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical)
----
-[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogePM&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogePM&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-I’ve earned a few **GitHub trophies**! 🏆
+---
 
+## 🏆 GitHub Trophies:
 ![Your Trophies](https://github-profile-trophy.vercel.app/?username=RogePM&theme=gruvbox)
 
 ---
