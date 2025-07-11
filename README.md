@@ -33,30 +33,10 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
   <img src="https://github-readme-stats.vercel.app/api?username=RogePM&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats" width="45%" />
 </div>
 
----
-
 ## 🏆 GitHub Trophies:
 ![Your Trophies](https://github-profile-trophy.vercel.app/?username=RogePM&theme=gruvbox)
 
----
 
-## 🛠️ Skills & Tools
-
-Here’s a rundown of the tools and technologies I use:
-
-### Programming & Scripting:
-- **Languages**: C, Java, Python, JavaScript, Assembly, SQL
-- **Web Development**: HTML, CSS, React.js, Node.js
-
-### Full-Stack & Cloud:
-- **MERN Stack**: MongoDB, Express.js, React, Node.js
-- **Cloud**: AWS, Azure, Kubernetes, Proxmox
-
-### Security & Systems:
-- **Security**: Kali Linux, Metasploit, Wireshark, Active Directory
-- **System Admin**: Git, Linux, MySQL, MongoDB
-
----
 
 ## 🌟 Fun Facts
 
