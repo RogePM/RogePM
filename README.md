@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s degrees**—one in **Computing Technology and Information Systems** and another in **Cyber & Network Security**. I specialize in **Full-Stack Web Development** and **Cybersecurity**. I’m passionate about **solving real-world problems** with technology.
 
-##  📚  Currently Learning
+##  📚  Currently Doing
 
-- Exploring **Machine Learning** and automating **AI** solutions.
+- Exploring automating **AI** solutions and deploying Emma AI Assistant
 - Enhancing my **Cybersecurity** knowledge wtih CCNA certification.
 - Diving deeper into **React** and **Node.js** to deploy my ***Real Time food Inventory Application*** as a product.
   
