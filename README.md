@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s 
 
 ##  📚  Currently Doing
 
-- Exploring automating **AI** solutions and deploying Emma AI Assistant
+- Exploring automating **AI** solutions and deploying Emma, an sms only AI Assistant using n8n and Cloud services
 - Enhancing my **Cybersecurity** knowledge wtih CCNA certification.
 - Diving deeper into **React** and **Node.js** to deploy my ***Real Time food Inventory Application*** as a product.
   
