@@ -13,7 +13,7 @@ I build high-performance, secure web applications with a focus on distributed sy
     * **Architecture:** Hybrid database logic using Supabase (PostgreSQL) and MongoDB for massive scalability and data isolation.
     * **Logic:** Real-time inventory tracking, automated expiration alerts, and multi-tenant organization switching.
 
-### 💻 Technical Arsenal
+### 💻 Technical Skills
 * **Frameworks:** Next.js (App Router), React, Node.js, Express.js.
 * **Cloud & Infra:** Docker, Kubernetes, Caddy, Google Cloud Platform (GCP), AWS.
 * **Databases:** PostgreSQL (Supabase), MongoDB (Mongoose), Redis.
