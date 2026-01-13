@@ -15,7 +15,7 @@ I build high-performance, secure web applications with a focus on distributed sy
 
 ### 💻 Technical Skills
 * **Frameworks:** Next.js (App Router), React, Node.js, Express.js.
-* **Cloud & Infra:** Docker, Kubernetes, Caddy, Google Cloud Platform (GCP), AWS.
+* **Cloud & Infra:** Docker, Kubernetes, Caddy, Google Cloud Platform (GCP), AWS, Azure
 * **Databases:** PostgreSQL (Supabase), MongoDB (Mongoose), Redis.
 * **Security:** Network Topology (pfSense/VLANs), Kali Linux, Wireshark, Active Directory.
 * **Languages:** TypeScript, JavaScript (ES6+), Java, SQL, x86 Assembly.
