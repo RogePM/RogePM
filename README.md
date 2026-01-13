@@ -1,15 +1,27 @@
-# 👋 Hello, I'm Rogelio (Ro-Hell-Lio)! 
+# Hi, I'm Rogelio Perez 🚀
 
-Welcome to my GitHub profile! I'm a **recent graduate** with **two Bachelor’s degrees**—one in **Computing Technology and Information Systems** and another in **Cyber & Network Security**. I specialize in **Full-Stack Web Development** and **Cybersecurity**. I’m passionate about **solving real-world problems** with technology.
+**Full-Stack Engineer | Cybersecurity Researcher | Golden Door Scholar**
 
-##  📚  Currently Doing
+I build high-performance, secure web applications with a focus on distributed systems and zero-trust architecture. I believe security should be a middleware-level guardrail, not a user responsibility.
 
-- Exploring automating **AI** solutions and deploying Emma, an sms only AI Assistant using n8n and Cloud services
-- Enhancing my **Cybersecurity** knowledge wtih CCNA certification.
-- Diving deeper into **React** and **Node.js** to deploy my ***Real Time food Inventory Application*** as a product.
-  
+[**Explore My Portfolio**](https://grad-portfolio-two.vercel.app/) / [**Connect on LinkedIn**](https://www.linkedin.com/in/rogelioperezmontero/)
+
 ---
-## 🧑‍💻 My Most Used Languages & Streaks:
-| Top Languages | Streak Stats |
-|---------------|--------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogePM&layout=compact&theme=radical&langs_count=6) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RogePM&theme=radical&hide_border=true) |
+
+### 🛠 What I’m Building
+* **[Food Arca](https://github.com/rogepm/foodarca):** A modern SaaS platform for food pantry management.
+    * **Architecture:** Hybrid database logic using Supabase (PostgreSQL) and MongoDB for massive scalability and data isolation.
+    * **Logic:** Real-time inventory tracking, automated expiration alerts, and multi-tenant organization switching.
+
+### 💻 Technical Arsenal
+* **Frameworks:** Next.js (App Router), React, Node.js, Express.js.
+* **Cloud & Infra:** Docker, Kubernetes, Caddy, Google Cloud Platform (GCP), AWS.
+* **Databases:** PostgreSQL (Supabase), MongoDB (Mongoose), Redis.
+* **Security:** Network Topology (pfSense/VLANs), Kali Linux, Wireshark, Active Directory.
+* **Languages:** TypeScript, JavaScript (ES6+), Java, SQL, x86 Assembly.
+
+---
+
+### 📫 Reach Out
+* **Email:** [perez122003@gmail.com](mailto:perez122003@gmail.com)
+* **Portfolio:** [grad-portfolio-two.vercel.app](https://grad-portfolio-two.vercel.app/)
